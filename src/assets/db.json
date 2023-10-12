@@ -1,0 +1,24 @@
+{
+  "notes": [
+    {
+      "id": 2,
+      "body": "Bob from bar down the \n\n- Take out trash\n- Eat food\n- My own update",
+      "updated": "2023-10-09T18:08:07.575Z"
+    },
+    {
+      "body": "As we discussed\n- On it\n- Again on it",
+      "updated": "2023-10-09T18:09:10.645Z",
+      "id": 4
+    },
+    {
+      "body": "My note to perform\n- Still performing\n- Set up properly\n- Working as expected",
+      "updated": "2023-10-09T18:07:26.786Z",
+      "id": 5
+    },
+    {
+      "body": "Save me\n- On back\n- Arrow click",
+      "updated": "2023-10-09T18:07:21.930Z",
+      "id": 6
+    }
+  ]
+}
